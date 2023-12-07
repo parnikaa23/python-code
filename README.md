@@ -1,2 +1,3 @@
 # python-code
-Here are some python codes for practice
+
+This is my workspace to save all python code that i have practised.
